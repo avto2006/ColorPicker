@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(128, 35, 139);
+}
+
+button {
+    width: 150px;
+    height: 60px;
+    border-radius: 15px;
+    border: 3px dashed gray;
+}
+
+.color-picker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+}
+
+.countter-area {
+    display: flex;
+    color: rgb(250, 245, 245);
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
