@@ -10,5 +10,4 @@ btn.addEventListener('click', () => {
   document.body.style.backgroundColor = rgb
     count++
     counterArea.innerHTML = `ფერი შეიცვალა ${count}-ჯერ`
-    localStorage(count)
 })
